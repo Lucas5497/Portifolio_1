@@ -1,17 +1,18 @@
 # Portfolio
-- [About me](#about-me)
+- [Sobre](#sobre)
 - [CV](#cv)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Examples of my work](#examples-of-my-work)
+- [Habilidades](#habilidades)
+- [Ferramentas](#ferramentas)
+- [Cursos](#cursos)
+- [Certificações](#certificações)
+- [Exemplos do meu trabalho](#exemplos-do-meu-trabalho)
   * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Books I have read](#books-i-have-read)
 
-## About me
+## Sobre
 
 I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
 
@@ -24,7 +25,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 ## CV
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
 
-## Skills
+## Habilidades
 
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
@@ -58,7 +59,7 @@ __Python fundamentals__
   * know when to use for and while
   * able to comprehend easy codes
 
-## Tools
+## Ferramentas
 
 __TestRail__
   * know how to create test cases and test suits
@@ -82,7 +83,7 @@ __Trello and Notion__
 __Mind maps & diagrams__
   * know how to design beautifully simple mind maps
 
-## Courses
+## Cursos
 
 __Robot Framework Test Automation, Levels 1-4__  
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
@@ -100,8 +101,14 @@ __Onboarding to Testing · Jedi Point__
 An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
 [Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
 
+## Certificações
 
-## Examples of my work
+### CTFL 
+
+### CTFL-AT
+
+
+## Exemplos do meu trabalho
 
 ### Test cases and work in TestRail
 
