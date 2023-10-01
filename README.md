@@ -13,17 +13,14 @@
 - [Livros que li](#livros-que-li)
 
 ## Sobre
+Sou uma pessoa de pensamento positivo que possui dois lados do poder. Por um lado, sou organizada, estruturada e atenta aos pormenores devido à minha formação como química de investigação. Por outro lado, devido à minha personalidade, gosto de comunicar com as pessoas e de resolver problemas.
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+Agora, quero explorar as minhas competências de investigação e análise no domínio dos testes de software. Atualmente, estou a estudar intensivamente técnicas e ferramentas, frequentando cursos em linha e testando aplicações Web criadas para fins de aprendizagem.
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
-
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+Teria todo o gosto em aplicar os conhecimentos adquiridos para testar um produto operacional e ganhar experiência prática. É um passo crucial no meu atual objetivo de carreira - tornar-me um testador de software de nível intermédio dentro de 2 anos.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](colocar-link-aqui).
 
 ## Habilidades
 
