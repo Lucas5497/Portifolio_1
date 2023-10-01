@@ -20,7 +20,7 @@ Agora, quero explorar as minhas competências de investigação e análise no do
 Teria todo o gosto em aplicar os conhecimentos adquiridos para testar um produto operacional e ganhar experiência prática. É um passo crucial no meu atual objetivo de carreira - tornar-me um testador de software de nível intermédio dentro de 2 anos.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/19O2-w9xu2ZHZJlqzDqqwMLLNEMa240aW/edit?usp=drive_link&ouid=117993770946883489230&rtpof=true&sd=true).
+You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/19O2-w9xu2ZHZJlqzDqqwMLLNEMa240aW/edit?usp=sharing&ouid=117993770946883489230&rtpof=true&sd=true).
 
 ## Habilidades
 
