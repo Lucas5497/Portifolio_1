@@ -101,9 +101,9 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 ## Certificações
 
 ###  ISTQB® Certified Tester Foundation Level CTFL 
-[Link to the certificate](colocar-link-aqui)
+[Link to the certificate](https://drive.google.com/file/d/1V8lynlmtXr_i7cv53C3AxNb-U-W4eQ86/view?usp=sharing)
 ###  ISTQB® Certified Tester Foundation Level, Agile Tester CTFL-AT
-[Link to the certificate](colocar-link-aqui)
+[Link to the certificate](https://drive.google.com/file/d/1XFwvTUFcshHbRmUl_99Pn3r3tmldUQrA/view?usp=sharing)
 
 ## Exemplos do meu trabalho
 
