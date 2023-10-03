@@ -27,20 +27,21 @@ Você pode fazer o download do meu curriculo direto do Google Drive. [Clique aqu
 
 ## Habilidades
 
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+Pode encontrar exemplos das competências descritas na secção [Exemplos do meu trabalho](#exemplos-do-meu-trabalho).
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
+__Testes manuais__
+  * Pode efetuar testes manuais funcionais e de usabilidade de aplicações Web
+  * Ganhar experiência prática testando aplicações criadas para fins educativos
+    
+__Análise e conceção de testes__
+  * Conhecer a decomposição funcional dos produtos, criar diagramas de transição de estados, escrever casos de utilização
+  * Pode aplicar a partição de equivalência, a análise do valor-limite e os métodos de teste em pares para gerar dados de entrada de teste
 
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
+__Teste de API__
+  * Conhecer a diferença entre APIs SOAP e REST
+  * Ter adquirido experiência através de testes manuais de APIs criadas para fins educacionais
+  * saber como manipular pedidos e criar casos de teste usando a ferramenta SoapUI
 
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
 
 __Exploratory testing__
   * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
