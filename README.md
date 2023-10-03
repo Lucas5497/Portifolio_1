@@ -71,6 +71,38 @@ __Fundamentos de Java__
   * saber escrever funções e algoritmos simples
   * saber quando utilizar for e while
   * é capaz de compreender códigos simples
+## Habilidades Destacadas
+
+Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qualidade de software e testes. Estou dedicado a aprimorar constantemente essas habilidades para garantir que posso contribuir significativamente para a excelência de projetos de software. Algumas das minhas habilidades-chave incluem:
+
+### Automatização de Testes
+- Desenvolvimento de scripts de automação robustos e reutilizáveis para acelerar testes de regressão e garantir a consistência nos processos de teste.
+
+### Frameworks de Teste
+- Domínio de frameworks populares, como Selenium, Appium e TestNG, para a automação de testes de aplicativos da web e móveis.
+
+### Testes de API
+- Experiência em testes de APIs RESTful e SOAP, incluindo a criação de casos de teste e execução usando ferramentas como Postman e SoapUI.
+
+### Testes de Desempenho
+- Realização de testes de desempenho para avaliar a escalabilidade e a estabilidade de aplicativos sob carga, utilizando ferramentas como JMeter.
+
+### Metodologias Ágeis
+- Trabalho eficaz em ambientes Agile/Scrum, contribuindo para o desenvolvimento iterativo e a melhoria contínua.
+
+### Colaboração em Equipe
+- Fortes habilidades de comunicação e trabalho em equipe, permitindo uma colaboração eficiente com desenvolvedores, analistas de negócios e outros stakeholders.
+
+### Resolução de Problemas
+- Capacidade de identificar e solucionar eficazmente problemas de qualidade de software, contribuindo para a entrega de produtos de alto padrão.
+
+### Gerenciamento de Casos de Teste
+- Criação, execução e documentação de casos de teste detalhados e abrangentes, garantindo uma cobertura completa.
+
+### Análise de Requisitos
+- Compreensão sólida dos requisitos de software e a capacidade de traduzi-los em casos de teste significativos.
+
+Essas são algumas das habilidades que trago para a mesa como Analista de Testes e Qualidade de Software. Estou comprometido em aplicar essas competências para garantir que os produtos em que trabalho atendam aos mais altos padrões de qualidade e desempenho.
 
 ## Ferramentas
 
