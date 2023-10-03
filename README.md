@@ -42,18 +42,17 @@ __Teste de API__
   * Ter adquirido experiência através de testes manuais de APIs criadas para fins educacionais
   * saber como manipular pedidos e criar casos de teste usando a ferramenta SoapUI
 
+__Testes exploratórios__
+  * capaz de utilizar as visitas de teste de Whittaker e de criar listas de verificação para testar aplicações Web
 
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+__Documentação de teste__
+  * Ser capaz de criar casos de teste e listas de verificação e saber como e em que situações os utilizar eficazmente
+  * Preparar relatórios completos sobre os erros e fornecer relatórios pormenorizados sobre as sessões
 
-__Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
-
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+__Bases de dados SQL__
+  * Pode escrever pedidos complexos utilizando subconsultas
+  * Conhecer a utilização de aliases e wildcards
+  * Conhecer a diferença entre junções e uniões e saber utilizá-las em consultas
 
 __Java fundamentals__
   * can write simple functions and algorithms
