@@ -122,9 +122,9 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 ## Certificações
 
 ###  ISTQB® Certified Tester Foundation Level CTFL 
-[Link to the certificate](https://drive.google.com/file/d/1V8lynlmtXr_i7cv53C3AxNb-U-W4eQ86/view?usp=sharing)
+[Link para o certificado](https://drive.google.com/file/d/1V8lynlmtXr_i7cv53C3AxNb-U-W4eQ86/view?usp=sharing)
 ###  ISTQB® Certified Tester Foundation Level, Agile Tester CTFL-AT
-[Link to the certificate](https://drive.google.com/file/d/1XFwvTUFcshHbRmUl_99Pn3r3tmldUQrA/view?usp=sharing)
+[Link para o certificado](https://drive.google.com/file/d/1XFwvTUFcshHbRmUl_99Pn3r3tmldUQrA/view?usp=sharing)
 
 ## Exemplos do meu trabalho
 
@@ -149,17 +149,15 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 * An example of a project in Jira. Check [the screenshot]().
 
 ### Mindmaps and diagrams
-* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
+* Functional decomposition of [the training webpage Loan Calculator](). Check [the mindmap]().
+* State-transition diagram of the loan application at [the training webpage Loan Calculator](). Check [the diagram]().
+* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram]().
+* Mindmap of the interfaces of [the training webpage Enotes](). Check [the mindmap]().
 
 ### Scripts for PICT (pairwise testing)
 
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
+* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT]() and [the results of the script execution]().
+* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT]() and [the results of the script execution]().
 
 ## Livros que li
-__"Testing dot com"__ R.Savin 2017 (in Russian) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
-
-__"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+__"Testing"__
