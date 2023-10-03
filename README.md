@@ -1,4 +1,6 @@
 # Portifolio - Lucas Lopes
+##Analista de Testes e Qualidade de Software
+
 - [Sobre](#sobre)
 - [CV](#cv)
 - [Habilidades](#habilidades)
@@ -20,7 +22,7 @@ Agora, quero explorar as minhas competências de investigação e análise no do
 Teria todo o gosto em aplicar os conhecimentos adquiridos para testar um produto operacional e ganhar experiência prática. É um passo crucial no meu atual objetivo de carreira - tornar-me um testador de software de nível intermédio dentro de 2 anos.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://docs.google.com/document/d/19O2-w9xu2ZHZJlqzDqqwMLLNEMa240aW/edit?usp=sharing&ouid=117993770946883489230&rtpof=true&sd=true).
+Você pode fazer o download do meu curriculo direto do Google Drive. [Clique aqui para baixar](https://docs.google.com/document/d/19O2-w9xu2ZHZJlqzDqqwMLLNEMa240aW/edit?usp=sharing&ouid=117993770946883489230&rtpof=true&sd=true).
 
 ## Habilidades
 
@@ -51,7 +53,7 @@ __SQL databases__
   * familiar with the use of aliases and wildcards
   * know the difference between joins and unions and can use them in queries
 
-__Python fundamentals__
+__Java fundamentals__
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
@@ -109,23 +111,23 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ### Test cases and work in TestRail
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
+- [The training webshop]() was used to create demo test cases
+  * Test case for checking the checkout process (in English). Check [the Google Sheets document here]()
+  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here]()
 
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+- [The training webpage Enotes]() was used for working with TestRail.
+  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here]().
+  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here]().
+  * Test suits and a test run for the cart. See [the screenshots from TestRail here]().
 
 
 ### Bug reports and work in Jira
 
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
+- Several bugs found on [the training webpage Loan Calculator]() and reported:
+  * Bug #1. Check [the screenshot of the bug report in Jira]().
+  * Bug #2. Check [the screenshot of the bug report in Jira]().
+  * Bug #3. Check [the screenshot of the bug report in Jira]().
+* An example of a project in Jira. Check [the screenshot]().
 
 ### Mindmaps and diagrams
 * Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
