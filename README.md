@@ -1,6 +1,6 @@
 # Portifolio - Lucas Lopes
 
-##Analista de Testes e Qualidade de Software
+## Analista de Testes e Qualidade de Software
 
 - [Sobre](#sobre)
 - [CV](#cv)
