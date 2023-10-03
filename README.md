@@ -30,58 +30,76 @@ Você pode fazer o download do meu curriculo direto do Google Drive. [Clique aqu
 Pode encontrar exemplos das competências descritas na secção [Exemplos do meu trabalho](#exemplos-do-meu-trabalho).
 
 __Testes manuais__
+  
   * Pode efetuar testes manuais funcionais e de usabilidade de aplicações Web
   * Ganhar experiência prática testando aplicações criadas para fins educativos
     
 __Análise e conceção de testes__
+  
   * Conhecer a decomposição funcional dos produtos, criar diagramas de transição de estados, escrever casos de utilização
   * Pode aplicar a partição de equivalência, a análise do valor-limite e os métodos de teste em pares para gerar dados de entrada de teste
 
 __Teste de API__
+  
   * Conhecer a diferença entre APIs SOAP e REST
   * Ter adquirido experiência através de testes manuais de APIs criadas para fins educacionais
   * saber como manipular pedidos e criar casos de teste usando a ferramenta SoapUI
 
 __Testes exploratórios__
+  
   * capaz de utilizar as visitas de teste de Whittaker e de criar listas de verificação para testar aplicações Web
 
 __Documentação de teste__
+  
   * Ser capaz de criar casos de teste e listas de verificação e saber como e em que situações os utilizar eficazmente
   * Preparar relatórios completos sobre os erros e fornecer relatórios pormenorizados sobre as sessões
 
 __Bases de dados SQL__
+  
   * Pode escrever pedidos complexos utilizando subconsultas
   * Conhecer a utilização de aliases e wildcards
   * Conhecer a diferença entre junções e uniões e saber utilizá-las em consultas
 
 __Java fundamentals__
+
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
 
+__Fundamentos de Java__
+
+  * saber escrever funções e algoritmos simples
+  * saber quando utilizar for e while
+  * é capaz de compreender códigos simples
+
 ## Ferramentas
 
 __TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+
+  * Saber criar casos de teste e fatos de teste
+  * Ser capaz de executar os casos de teste criados
+  * Saber utilizar painéis de controlo e estatísticas
 
 __Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
+
+  * Saber como criar relatórios de erros
+  * Ser capaz de criar projectos e acompanhar o seu progresso
 
 __SoapUI__
 
 __Browser developer tools__
 
 __VirtualBox__
-  * able to set up and operate virtual machines
+
+  * Capacidade de configurar e operar máquinas virtuais
 
 __Trello and Notion__
-  * know how to use Kanban boards and track project progress
+
+  * Saber utilizar quadros Kanban e acompanhar o progresso do projeto
 
 __Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
+
+  * Saber desenhar mapas mentais simples e bonitos
 
 ## Cursos
 
