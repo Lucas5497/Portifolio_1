@@ -9,9 +9,9 @@
 - [Cursos](#cursos)
 - [Certificações](#certificações)
 - [Exemplos do meu trabalho](#exemplos-do-meu-trabalho)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
+  * [Casos de teste no Azure DevOps](#test-cases-and-work-in-testrail)
+  * [Relatório de Bugs e Defeitos](#bug-reports-and-work-in-jira)
+  * [Mapas mentais e diagramas](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
 - [Livros que li](#livros-que-li)
 
@@ -24,7 +24,9 @@ Analista de Teste/QA, construindo conhecimentos e experiência na área de Quali
 Você pode fazer o download do meu curriculo direto do Google Drive. [Clique aqui para baixar](https://docs.google.com/document/d/19O2-w9xu2ZHZJlqzDqqwMLLNEMa240aW/edit?usp=sharing&ouid=117993770946883489230&rtpof=true&sd=true).
 
 ## Habilidades
+Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qualidade de software e testes. Estou dedicado a aprimorar constantemente essas habilidades para garantir que posso contribuir significativamente para a excelência de projetos de software. 
 Pode encontrar exemplos das competências descritas na secção [Exemplos do meu trabalho](#exemplos-do-meu-trabalho).
+Algumas das minhas habilidades-chave incluem:
 
 __Testes manuais__
   * Pode efetuar testes manuais funcionais e de usabilidade de aplicações Web
@@ -61,7 +63,6 @@ __Fundamentos de Java__
   * saber quando utilizar for e while
   * é capaz de compreender códigos simples
     
-## Habilidades Destacadas
 
 Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qualidade de software e testes. Estou dedicado a aprimorar constantemente essas habilidades para garantir que posso contribuir significativamente para a excelência de projetos de software. Algumas das minhas habilidades-chave incluem:
 
