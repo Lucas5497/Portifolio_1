@@ -29,23 +29,23 @@ Pode encontrar exemplos das competências descritas na secção [Exemplos do meu
 
 Algumas das minhas habilidades-chave incluem:
 
-### Testes manuais
+#### Testes manuais
   * Pode efetuar testes manuais funcionais e de usabilidade de aplicações Web
   * Ganhar experiência prática testando aplicações criadas para fins educativos
 
-### Teste de API
+#### Teste de API
   * Conhecer a diferença entre APIs SOAP e REST
   * Ter adquirido experiência através de testes manuais de APIs criadas para fins educacionais
   * saber como manipular pedidos e criar casos de teste usando a ferramenta SoapUI
 
-### Automação de Testes
+#### Automação de Testes
   * Desenvolvimento de scripts de automação robustos e reutilizáveis para acelerar testes de regressão e garantir a consistência nos processos de teste.
 
-### Análise e criação de testes
+#### Análise e criação de testes
   * Conhecer a decomposição funcional dos produtos, criar diagramas de transição de estados, escrever casos de utilização
   * Pode aplicar a partição de equivalência, a análise do valor-limite e os métodos de teste em pares para gerar dados de entrada de teste
    
-### Análise de Requisitos
+#### Análise de Requisitos
   * Compreensão sólida dos requisitos de software e a capacidade de traduzi-los em casos de teste significativos.
 
 
@@ -56,7 +56,7 @@ Algumas das minhas habilidades-chave incluem:
   * Ser capaz de criar casos de teste e listas de verificação e saber como e em que situações os utilizar eficazmente
   * Preparar relatórios completos sobre os erros e fornecer relatórios pormenorizados sobre as sessões
 
-__Bases de dados SQL__
+### Bases de dados SQL
   * Pode escrever pedidos complexos utilizando subconsultas
   * Conhecer a utilização de aliases e wildcards
   * Conhecer a diferença entre junções e uniões e saber utilizá-las em consultas
