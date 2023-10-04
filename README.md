@@ -16,61 +16,51 @@
 - [Livros que li](#livros-que-li)
 
 ## Sobre
-Sou uma pessoa de pensamento positivo que possui dois lados do poder. Por um lado, sou organizada, estruturada e atenta aos pormenores devido à minha formação como química de investigação. Por outro lado, devido à minha personalidade, gosto de comunicar com as pessoas e de resolver problemas.
+Olá, eu sou o Lucas!
 
-Agora, quero explorar as minhas competências de investigação e análise no domínio dos testes de software. Atualmente, estou a estudar intensivamente técnicas e ferramentas, frequentando cursos em linha e testando aplicações Web criadas para fins de aprendizagem.
-
-Teria todo o gosto em aplicar os conhecimentos adquiridos para testar um produto operacional e ganhar experiência prática. É um passo crucial no meu atual objetivo de carreira - tornar-me um testador de software de nível intermédio dentro de 2 anos.
+Analista de Teste/QA, construindo conhecimentos e experiência na área de Quality Assurance, a mais de 1 ano colaborando para garantir a qualidade de sistemas e aplicações. Possuo certificação CTFL e CTFL-AT e conhecimento em metodologias de teste, como teste de aceitação, teste de sistema e teste de regressão. Além disso, sou habilidoso em realizar testes de API. Sou capaz de planejar e gerenciar testes, documentar resultados de testes e utilizar ferramentas de teste para automação. Tenho excelentes habilidades de comunicação e trabalho em equipe, o que me permite colaborar eficazmente com o time de desenvolvimento e outros stakeholders.
 
 ## CV
 Você pode fazer o download do meu curriculo direto do Google Drive. [Clique aqui para baixar](https://docs.google.com/document/d/19O2-w9xu2ZHZJlqzDqqwMLLNEMa240aW/edit?usp=sharing&ouid=117993770946883489230&rtpof=true&sd=true).
 
 ## Habilidades
-
 Pode encontrar exemplos das competências descritas na secção [Exemplos do meu trabalho](#exemplos-do-meu-trabalho).
 
 __Testes manuais__
-  
   * Pode efetuar testes manuais funcionais e de usabilidade de aplicações Web
   * Ganhar experiência prática testando aplicações criadas para fins educativos
     
 __Análise e conceção de testes__
-  
   * Conhecer a decomposição funcional dos produtos, criar diagramas de transição de estados, escrever casos de utilização
   * Pode aplicar a partição de equivalência, a análise do valor-limite e os métodos de teste em pares para gerar dados de entrada de teste
 
 __Teste de API__
-  
   * Conhecer a diferença entre APIs SOAP e REST
   * Ter adquirido experiência através de testes manuais de APIs criadas para fins educacionais
   * saber como manipular pedidos e criar casos de teste usando a ferramenta SoapUI
 
 __Testes exploratórios__
-  
   * capaz de utilizar as visitas de teste de Whittaker e de criar listas de verificação para testar aplicações Web
 
 __Documentação de teste__
-  
   * Ser capaz de criar casos de teste e listas de verificação e saber como e em que situações os utilizar eficazmente
   * Preparar relatórios completos sobre os erros e fornecer relatórios pormenorizados sobre as sessões
 
 __Bases de dados SQL__
-  
   * Pode escrever pedidos complexos utilizando subconsultas
   * Conhecer a utilização de aliases e wildcards
   * Conhecer a diferença entre junções e uniões e saber utilizá-las em consultas
 
 __Java fundamentals__
-
   * can write simple functions and algorithms
   * know when to use for and while
   * able to comprehend easy codes
 
 __Fundamentos de Java__
-
   * saber escrever funções e algoritmos simples
   * saber quando utilizar for e while
   * é capaz de compreender códigos simples
+    
 ## Habilidades Destacadas
 
 Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qualidade de software e testes. Estou dedicado a aprimorar constantemente essas habilidades para garantir que posso contribuir significativamente para a excelência de projetos de software. Algumas das minhas habilidades-chave incluem:
@@ -83,9 +73,6 @@ Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qual
 
 ### Testes de API
 - Experiência em testes de APIs RESTful e SOAP, incluindo a criação de casos de teste e execução usando ferramentas como Postman e SoapUI.
-
-### Testes de Desempenho
-- Realização de testes de desempenho para avaliar a escalabilidade e a estabilidade de aplicativos sob carga, utilizando ferramentas como JMeter.
 
 ### Metodologias Ágeis
 - Trabalho eficaz em ambientes Agile/Scrum, contribuindo para o desenvolvimento iterativo e a melhoria contínua.
@@ -106,50 +93,46 @@ Essas são algumas das habilidades que trago para a mesa como Analista de Testes
 
 ## Ferramentas
 
-__TestRail__
-
+__Azure DevOps__
   * Saber criar casos de teste e fatos de teste
   * Ser capaz de executar os casos de teste criados
   * Saber utilizar painéis de controlo e estatísticas
 
-__Jira__
-
+__Trello__
   * Saber como criar relatórios de erros
   * Ser capaz de criar projectos e acompanhar o seu progresso
-
-__SoapUI__
-
+    
 __Browser developer tools__
 
 __VirtualBox__
-
   * Capacidade de configurar e operar máquinas virtuais
 
 __Trello and Notion__
-
   * Saber utilizar quadros Kanban e acompanhar o progresso do projeto
 
 __Mind maps & diagrams__
-
   * Saber desenhar mapas mentais simples e bonitos
 
 ## Cursos
-
-__Robot Framework Test Automation, Levels 1-4__  
+__Testes funcionais com Selenium WebDriver: Do básico ao GRID__  
 *online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
 An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](colocar-link-aqui)
-*Level 2-4 in progress*
+[Link para o certificado](colocar-link-aqui)
 
-__The 1st Online Institute of Software Testing__  
+__BDD com Cucumber em JAVA__  
 *online course by Quality Lab, Moscow, Russia*  
 A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](colocar-link-aqui)
+[Link para o certificado](colocar-link-aqui)
 
-__Onboarding to Testing · Jedi Point__  
+__Testes exploratórios__  
 *online course by Quality Lab, Moscow, Russia*  
 An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](colocar-link-aqui)
+[Link para o certificado](colocar-link-aqui)
+
+__Integração contínua com testes usando Jenkins__  
+*online course by Quality Lab, Moscow, Russia*  
+An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
+[Link para o certificado](colocar-link-aqui)
 
 ## Certificações
 
