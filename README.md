@@ -33,62 +33,44 @@ Algumas das minhas habilidades-chave incluem:
   * Pode efetuar testes manuais funcionais e de usabilidade de aplicações Web
   * Ganhar experiência prática testando aplicações criadas para fins educativos
 
+#### Testes exploratórios
+  * Capaz de utilizar as visitas de teste de Whittaker e de criar listas de verificação para testar aplicações Web
+
+#### Gerenciamento de Casos de Teste
+  * Criação, execução e documentação de casos de teste detalhados e abrangentes, garantindo uma cobertura completa.
+
+#### Análise de Requisitos
+  * Compreensão sólida dos requisitos de software e a capacidade de traduzi-los em casos de teste significativos.
+
 #### Teste de API
   * Conhecer a diferença entre APIs SOAP e REST
   * Ter adquirido experiência através de testes manuais de APIs criadas para fins educacionais
   * saber como manipular pedidos e criar casos de teste usando a ferramenta SoapUI
-
+   
 #### Automação de Testes
   * Desenvolvimento de scripts de automação robustos e reutilizáveis para acelerar testes de regressão e garantir a consistência nos processos de teste.
 
-#### Análise e criação de testes
-  * Conhecer a decomposição funcional dos produtos, criar diagramas de transição de estados, escrever casos de utilização
-  * Pode aplicar a partição de equivalência, a análise do valor-limite e os métodos de teste em pares para gerar dados de entrada de teste
-   
-#### Análise de Requisitos
-  * Compreensão sólida dos requisitos de software e a capacidade de traduzi-los em casos de teste significativos.
+#### Fundamentos de Java
+  * saber escrever funções e algoritmos simples
+  * saber quando utilizar for e while
+  * é capaz de compreender códigos simples
 
-
-### Testes exploratórios
-  * Capaz de utilizar as visitas de teste de Whittaker e de criar listas de verificação para testar aplicações Web
-
-### Documentação de teste
-  * Ser capaz de criar casos de teste e listas de verificação e saber como e em que situações os utilizar eficazmente
-  * Preparar relatórios completos sobre os erros e fornecer relatórios pormenorizados sobre as sessões
-
-### Bases de dados SQL
+#### Bases de dados SQL
   * Pode escrever pedidos complexos utilizando subconsultas
   * Conhecer a utilização de aliases e wildcards
   * Conhecer a diferença entre junções e uniões e saber utilizá-las em consultas
 
-__Fundamentos de Java__
-  * saber escrever funções e algoritmos simples
-  * saber quando utilizar for e while
-  * é capaz de compreender códigos simples
-    
+#### Frameworks de Teste
+  * Domínio de frameworks populares, como Selenium e JUnit, para a automação de testes de aplicativos da web.
 
+#### Metodologias Ágeis
+  * Trabalho eficaz em ambientes Agile/Scrum, contribuindo para o desenvolvimento iterativo e a melhoria contínua.
 
+#### Colaboração em Equipe
+  * Fortes habilidades de comunicação e trabalho em equipe, permitindo uma colaboração eficiente com desenvolvedores, analistas de negócios e outros stakeholders.
 
-### Frameworks de Teste
-- Domínio de frameworks populares, como Selenium, Appium e TestNG, para a automação de testes de aplicativos da web e móveis.
-
-### Testes de API
-- Experiência em testes de APIs RESTful e SOAP, incluindo a criação de casos de teste e execução usando ferramentas como Postman e SoapUI.
-
-### Metodologias Ágeis
-- Trabalho eficaz em ambientes Agile/Scrum, contribuindo para o desenvolvimento iterativo e a melhoria contínua.
-
-### Colaboração em Equipe
-- Fortes habilidades de comunicação e trabalho em equipe, permitindo uma colaboração eficiente com desenvolvedores, analistas de negócios e outros stakeholders.
-
-### Resolução de Problemas
-- Capacidade de identificar e solucionar eficazmente problemas de qualidade de software, contribuindo para a entrega de produtos de alto padrão.
-
-### Gerenciamento de Casos de Teste
-- Criação, execução e documentação de casos de teste detalhados e abrangentes, garantindo uma cobertura completa.
-
-### Análise de Requisitos
-- Compreensão sólida dos requisitos de software e a capacidade de traduzi-los em casos de teste significativos.
+#### Resolução de Problemas
+  * Capacidade de identificar e solucionar eficazmente problemas de qualidade de software, contribuindo para a entrega de produtos de alto padrão.
 
 
 ## Ferramentas
