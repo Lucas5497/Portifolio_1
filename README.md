@@ -13,7 +13,7 @@
   * [Relatório de Bugs e Defeitos](#bug-reports-and-work-in-jira)
   * [Mapas mentais e diagramas](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Livros que li](#livros-que-li)
+  
 
 ## Sobre
 Olá, eu sou o Lucas!
@@ -74,24 +74,25 @@ Algumas das minhas habilidades-chave incluem:
 
 
 ## Ferramentas
-__Azure DevOps__
+
+#### Azure DevOps
   * Saber criar casos de teste e fatos de teste
   * Ser capaz de executar os casos de teste criados
   * Saber utilizar painéis de controlo e estatísticas
 
-__Trello__
+#### Trello
   * Saber como criar relatórios de erros
   * Ser capaz de criar projectos e acompanhar o seu progresso
     
-__Browser developer tools__
+#### Browser developer tools
 
-__VirtualBox__
+#### VirtualBox
   * Capacidade de configurar e operar máquinas virtuais
 
-__Trello and Notion__
+#### Trello and Notion
   * Saber utilizar quadros Kanban e acompanhar o progresso do projeto
 
-__Mind maps & diagrams__
+#### Mind maps & diagrams
   * Saber desenhar mapas mentais simples e bonitos
 
 ## Cursos
@@ -124,36 +125,20 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ## Exemplos do meu trabalho
 
-### Test cases and work in TestRail
+#### Test cases and work in TestRail
 
 - [The training webshop]() was used to create demo test cases
   * Test case for checking the checkout process (in English). Check [the Google Sheets document here]()
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here]()
-
+    
 - [The training webpage Enotes]() was used for working with TestRail.
   * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here]().
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here]().
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here]().
 
 
-### Bug reports and work in Jira
-
-- Several bugs found on [the training webpage Loan Calculator]() and reported:
+#### Bug reports and work in Jira
+  * Several bugs found on [the training webpage Loan Calculator]() and reported:
   * Bug #1. Check [the screenshot of the bug report in Jira]().
-  * Bug #2. Check [the screenshot of the bug report in Jira]().
-  * Bug #3. Check [the screenshot of the bug report in Jira]().
-* An example of a project in Jira. Check [the screenshot]().
 
-### Mindmaps and diagrams
+#### Mindmaps and diagrams
 * Functional decomposition of [the training webpage Loan Calculator](). Check [the mindmap]().
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](). Check [the diagram]().
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram]().
-* Mindmap of the interfaces of [the training webpage Enotes](). Check [the mindmap]().
 
-### Scripts for PICT (pairwise testing)
 
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT]() and [the results of the script execution]().
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT]() and [the results of the script execution]().
-
-## Livros que li
-__"Testing"__
