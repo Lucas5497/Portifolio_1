@@ -29,23 +29,30 @@ Pode encontrar exemplos das competências descritas na secção [Exemplos do meu
 
 Algumas das minhas habilidades-chave incluem:
 
-__Testes manuais__
+### Testes manuais
   * Pode efetuar testes manuais funcionais e de usabilidade de aplicações Web
   * Ganhar experiência prática testando aplicações criadas para fins educativos
-    
-__Análise e conceção de testes__
-  * Conhecer a decomposição funcional dos produtos, criar diagramas de transição de estados, escrever casos de utilização
-  * Pode aplicar a partição de equivalência, a análise do valor-limite e os métodos de teste em pares para gerar dados de entrada de teste
 
-__Teste de API__
+### Teste de API
   * Conhecer a diferença entre APIs SOAP e REST
   * Ter adquirido experiência através de testes manuais de APIs criadas para fins educacionais
   * saber como manipular pedidos e criar casos de teste usando a ferramenta SoapUI
 
-__Testes exploratórios__
-  * capaz de utilizar as visitas de teste de Whittaker e de criar listas de verificação para testar aplicações Web
+### Automação de Testes
+  * Desenvolvimento de scripts de automação robustos e reutilizáveis para acelerar testes de regressão e garantir a consistência nos processos de teste.
 
-__Documentação de teste__
+### Análise e criação de testes
+  * Conhecer a decomposição funcional dos produtos, criar diagramas de transição de estados, escrever casos de utilização
+  * Pode aplicar a partição de equivalência, a análise do valor-limite e os métodos de teste em pares para gerar dados de entrada de teste
+   
+### Análise de Requisitos
+  * Compreensão sólida dos requisitos de software e a capacidade de traduzi-los em casos de teste significativos.
+
+
+### Testes exploratórios
+  * Capaz de utilizar as visitas de teste de Whittaker e de criar listas de verificação para testar aplicações Web
+
+### Documentação de teste
   * Ser capaz de criar casos de teste e listas de verificação e saber como e em que situações os utilizar eficazmente
   * Preparar relatórios completos sobre os erros e fornecer relatórios pormenorizados sobre as sessões
 
@@ -54,21 +61,13 @@ __Bases de dados SQL__
   * Conhecer a utilização de aliases e wildcards
   * Conhecer a diferença entre junções e uniões e saber utilizá-las em consultas
 
-__Java fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
-
 __Fundamentos de Java__
   * saber escrever funções e algoritmos simples
   * saber quando utilizar for e while
   * é capaz de compreender códigos simples
     
 
-Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qualidade de software e testes. Estou dedicado a aprimorar constantemente essas habilidades para garantir que posso contribuir significativamente para a excelência de projetos de software. Algumas das minhas habilidades-chave incluem:
 
-### Automatização de Testes
-- Desenvolvimento de scripts de automação robustos e reutilizáveis para acelerar testes de regressão e garantir a consistência nos processos de teste.
 
 ### Frameworks de Teste
 - Domínio de frameworks populares, como Selenium, Appium e TestNG, para a automação de testes de aplicativos da web e móveis.
@@ -91,10 +90,8 @@ Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qual
 ### Análise de Requisitos
 - Compreensão sólida dos requisitos de software e a capacidade de traduzi-los em casos de teste significativos.
 
-Essas são algumas das habilidades que trago para a mesa como Analista de Testes e Qualidade de Software. Estou comprometido em aplicar essas competências para garantir que os produtos em que trabalho atendam aos mais altos padrões de qualidade e desempenho.
 
 ## Ferramentas
-
 __Azure DevOps__
   * Saber criar casos de teste e fatos de teste
   * Ser capaz de executar os casos de teste criados
