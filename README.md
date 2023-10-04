@@ -24,8 +24,9 @@ Analista de Teste/QA, construindo conhecimentos e experiência na área de Quali
 Você pode fazer o download do meu curriculo direto do Google Drive. [Clique aqui para baixar](https://docs.google.com/document/d/19O2-w9xu2ZHZJlqzDqqwMLLNEMa240aW/edit?usp=sharing&ouid=117993770946883489230&rtpof=true&sd=true).
 
 ## Habilidades
-Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qualidade de software e testes. Estou dedicado a aprimorar constantemente essas habilidades para garantir que posso contribuir significativamente para a excelência de projetos de software. 
+Meu conjunto de habilidades abrange uma variedade de áreas relacionadas à qualidade de software e testes. Estou dedicado-me a aprimorar constantemente essas habilidades para garantir que posso contribuir significativamente para a excelência de projetos de software. 
 Pode encontrar exemplos das competências descritas na secção [Exemplos do meu trabalho](#exemplos-do-meu-trabalho).
+
 Algumas das minhas habilidades-chave incluem:
 
 __Testes manuais__
