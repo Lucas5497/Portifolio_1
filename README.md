@@ -102,18 +102,12 @@ An intensive course in test automation with Robot Framework.
 [Link para o certificado](colocar-link-aqui)
 
 __BDD com Cucumber em JAVA__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
 [Link para o certificado](colocar-link-aqui)
 
-__Testes exploratórios__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
+__Testes exploratórios__     
 [Link para o certificado](colocar-link-aqui)
 
-__Integração contínua com testes usando Jenkins__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
+__Integração contínua com testes usando Jenkins__     
 [Link para o certificado](colocar-link-aqui)
 
 ## Certificações
